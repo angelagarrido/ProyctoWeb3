@@ -1,5 +1,5 @@
 body{
-    background-color:#e27373;
+    background-color:#3d6a43;
 }
 h1{
     color:#FFFFFF;
@@ -31,7 +31,7 @@ h4{
 
 p{
     color: #fefefe;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;
 }
 ul{
@@ -39,4 +39,11 @@ ul{
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
 }
+table {
+    border: #b2b2b2 1px solid;
+    font-family: monospace;
 
+  }
+  td, th {
+    border: black 1px solid;
+  }
